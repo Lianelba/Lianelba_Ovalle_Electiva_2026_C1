@@ -1,0 +1,41 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5cd608df-1afe-47ac-abb5-e7eedd5a5a12")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "COM"
+		(shape input)
+		(at 88.9 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29805c6e-6525-44f1-a424-65b80776a94f")
+	)
+	(hierarchical_label "PNP_SIG"
+		(shape output)
+		(at 128.27 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4edf80d7-b7fc-4bfa-84fa-493c11061fb1")
+	)
+	(hierarchical_label "PNP_IN"
+		(shape input)
+		(at 88.9 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bdd3c4ef-24f7-4786-9d12-a4224b426d93")
+	)
+)

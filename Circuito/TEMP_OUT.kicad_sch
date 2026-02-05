@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "30085829-32eb-409a-a94c-24352964423b")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "TEMP_SIG_IN"
+		(shape input)
+		(at 52.07 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "133ed3ed-dc2d-40bf-b846-f5a3b91415e0")
+	)
+	(hierarchical_label "TEMP_OUT"
+		(shape output)
+		(at 71.12 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3dbdb4a-7274-4c3b-8c90-ccbcd584561c")
+	)
+)

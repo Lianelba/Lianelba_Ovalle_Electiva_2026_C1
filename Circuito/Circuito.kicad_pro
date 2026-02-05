@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "garabato.kicad_pro",
+    "filename": "Circuito.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -408,6 +408,83 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "06c3ca5c-5c4d-48a1-82fc-2933efa352fe",
+      "Root"
+    ],
+    [
+      "64827169-af86-4fda-af11-4133d606447b",
+      "PLC"
+    ],
+    [
+      "e40d7637-4425-4fed-9aa6-be39740f1dc5",
+      "NPN_IN"
+    ],
+    [
+      "c8074d34-0714-4c91-96a3-661ac252a0a0",
+      "NPN_IN1"
+    ],
+    [
+      "bf797853-f89d-43f9-8b3d-b7813cebe8d1",
+      "NPN_IN2"
+    ],
+    [
+      "11932a5d-8b9d-49c1-b01a-fe9e6aeb6d82",
+      "NPN_IN3"
+    ],
+    [
+      "0717af15-cdf2-44ac-af46-05b077e48469",
+      "PNP_IN"
+    ],
+    [
+      "059947d0-5fdf-4d2a-b535-53a63e5fdbab",
+      "PNP_IN1"
+    ],
+    [
+      "e4a9c6bd-f0a4-4df5-8339-8890c01d8570",
+      "TEMP_IN"
+    ],
+    [
+      "58326db6-60e5-4958-ad09-99d21845d1ae",
+      "TEMP_IN1"
+    ],
+    [
+      "55c545e5-7b15-4f63-95d9-628bfcb25585",
+      "TEMP_IN2"
+    ],
+    [
+      "c76e7e37-50e7-4a50-98ff-245650e9dcfa",
+      "TEMP_IN3"
+    ],
+    [
+      "bb07990b-f8c4-434e-b944-e79ba87d45d8",
+      "TEMP_OUT"
+    ],
+    [
+      "0ddd28fe-9590-406f-be19-80123500c30f",
+      "TEMP_OUT1"
+    ],
+    [
+      "7cb6d295-4689-4735-a3f3-928c30fddc38",
+      "TEMP_OUT2"
+    ],
+    [
+      "8f95d16b-bc05-4c6a-b7cd-ede1b5bd118f",
+      "TEMP_OUT3"
+    ],
+    [
+      "cd8ef0b6-1045-4ce3-a8fd-8158eefd0ab9",
+      "TEMP_OUT4"
+    ],
+    [
+      "c6324827-5695-4557-ad33-dd7b4cd0a2f0",
+      "TEMP_OUT5"
+    ],
+    [
+      "afea8612-d2ef-45bc-a79f-b422de93b5a9",
+      "RLY"
+    ]
+  ],
   "text_variables": {}
 }
