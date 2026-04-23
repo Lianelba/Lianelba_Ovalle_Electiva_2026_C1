@@ -4421,7 +4421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "EasyEDA:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 			(at 215.9 106.68 0)
 			(effects
 				(font

@@ -1594,7 +1594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EasyEDA:SSOP-4_L2.7-W4.6-P1.27-LS7.0-TL"
+		(property "Footprint" "easyeda2kicad:SSOP-4_L2.7-W4.6-P1.27-LS7.0-TL"
 			(at 146.05 78.74 0)
 			(effects
 				(font

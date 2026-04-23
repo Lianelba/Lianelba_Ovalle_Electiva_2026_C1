@@ -3349,7 +3349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EasyEDA:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+		(property "Footprint" "PCM_JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
 			(at 182.88 83.82 0)
 			(effects
 				(font
@@ -3713,7 +3713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD_AKL:D_SMB"
+		(property "Footprint" "PCM_Diode_SMD_AKL:D_SMB"
 			(at 195.58 113.03 0)
 			(effects
 				(font
